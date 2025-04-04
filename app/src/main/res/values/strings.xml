@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Posture Monitor</string>
+    <string name="welcome_title">Welcome to Posture Monitor</string>
+    <string name="welcome_description">This app will help you maintain good posture by monitoring your neck position</string>
+    <string name="get_started">Get Started</string>
+    <string name="posture_monitor">Posture Monitor</string>
+    <string name="connecting_to_device">Connecting to device...</string>
+    <string name="good_posture">Good Posture</string>
+    <string name="warning_posture">Warning: Slight Slouch</string>
+    <string name="bad_posture">Alert: Poor Posture</string>
+    <string name="battery_level">Battery: %d%%</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="error">Error: %s</string>
+</resources>
